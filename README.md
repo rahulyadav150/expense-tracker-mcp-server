@@ -1,1 +1,2 @@
-A MCP serve for expense tracking.
+A MCP server for expense tracking.
+
